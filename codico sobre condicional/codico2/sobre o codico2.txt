@@ -1,0 +1,17 @@
+
+
+__________________________________________________________________________________________________
+#exercicio2
+Escreva um programa que pede a idade do usuário e imprime "Criança", "Adolescente", "Adulto" ou "Idoso" com base na faixa etária.
+
+faixa etaria 
+
+bebe <6 anos
+criança >8 anos
+adolecente 12>
+adulto >18 anos
+idoso >60 anos
+feito no dia 27/12/23
+por GL
+
+_______________________________________________________________________________________________

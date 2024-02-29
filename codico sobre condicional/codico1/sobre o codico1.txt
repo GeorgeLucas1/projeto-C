@@ -1,0 +1,9 @@
+
+sobre o exercicio1
+#faça um algoritimo aonde pegue 3 valores inteiros
+-verifique que os inteiros e diga caso estejam iguais
+-verificar o maior inteiro  entre os 3 e imprime o valor
+
+codico esta em linguagem C
+por GL
+codico criado no dia 27/12/2023

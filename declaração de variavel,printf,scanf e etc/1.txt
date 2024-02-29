@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main(void) {
+ int inteiro=13;
+float real=10.0;
+char letra[6];
+
+printf("o valor do inteiro é %d\n",inteiro);
+printf(" O VALOR DO REAL É %f\n",real);
+printf("o valor da letra é %c\n",letra);
+  return 0;
+}
