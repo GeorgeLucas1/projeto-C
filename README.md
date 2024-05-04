@@ -1,5 +1,6 @@
-projeto de Lógica de programação com linguagem C. 
-assuntos aprendidos
+Preparem-se, porque estou me aventurando no fascinante universo da linguagem C!
+#programação #linguagemC #dev #codigando #tecnologia #aprendendo
+
 lógica
 sintaxes
 estruturas 
